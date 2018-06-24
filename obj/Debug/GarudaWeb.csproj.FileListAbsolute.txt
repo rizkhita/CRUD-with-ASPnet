@@ -1,0 +1,9 @@
+C:\Users\admin\source\repos\GarudaWeb\GarudaWeb\bin\GarudaWeb.dll.config
+C:\Users\admin\source\repos\GarudaWeb\GarudaWeb\bin\GarudaWeb.dll
+C:\Users\admin\source\repos\GarudaWeb\GarudaWeb\bin\GarudaWeb.pdb
+C:\Users\admin\source\repos\GarudaWeb\GarudaWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\admin\source\repos\GarudaWeb\GarudaWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\admin\source\repos\GarudaWeb\GarudaWeb\obj\Debug\GarudaWeb.csprojResolveAssemblyReference.cache
+C:\Users\admin\source\repos\GarudaWeb\GarudaWeb\obj\Debug\GarudaWeb.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\GarudaWeb\GarudaWeb\obj\Debug\GarudaWeb.dll
+C:\Users\admin\source\repos\GarudaWeb\GarudaWeb\obj\Debug\GarudaWeb.pdb
